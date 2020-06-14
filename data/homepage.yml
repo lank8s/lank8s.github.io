@@ -1,0 +1,108 @@
+# banner
+banner:
+  title : "致力于让国内技术人员更方便的学习K8S"
+
+# about
+about:
+  enable : true
+  content : "在国内需要想尽办法拉取K8S镜像,原本有微软国内代理节点gcr.azk8s.cn,但其在2020年4月初已经关闭公开访问,只有使用了微软云的国内机器才可使用,这实在是很可惜,因为我之前就是使用的gcr.azk8s.cn.也有很多人搭建了自己的k8s镜像同步的东西,这让我想到了不要重复造轮子这句话.因为我创建了lank8s,计划长期免费提供K8S镜像拉取服务.当前仅支持K8S部署的基本镜像,其他gcr镜像无法提供,因为lank8s也是将数据存储在阿里云镜像库,并不是一个真正意义上的docker仓库."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Marters in UX Design"
+      year : "2006"
+      academy : "Masassusets Institute of Technology"
+      
+    - title : "Honours in Fine Arts"
+      year : "2004"
+      academy : "Harvard University"
+      
+    - title : "Higher Secondary Certificat"
+      year : "2000"
+      academy : "Cardiff School"
+      
+    - title : "Secondary School Certificate"
+      year : "1998"
+      academy : "Cardiff School"
+
+## client logo slider
+# clients_logo_slider:
+#   enable : true
+#   item:
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "http://examplesite.com"
+      
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
+      
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "http://examplesite.com"
+      
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "#"
+      
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "http://examplesite.com"
+      
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
+      
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "http://examplesite.com"
+      
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
+      
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "http://examplesite.com"
+      
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "#"
