@@ -28,28 +28,29 @@ URL = "plugins/shuffle/shuffle.min.js"
 # menu
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "关于"
 weight = 1
 
 
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "博客"
 weight = 2
 
 # default parameters
 [params]
-home = "Home"
+home = "主页"
 logo = "images/logo.png"
 # theme color
 theme_color = "#41228e"
 # meta description
-author = "Johnathan Smith"
+author = "梁远鹏"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "深圳"
 
 # social site
 [[params.social]]
@@ -67,3 +68,4 @@ URL = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "#"
+

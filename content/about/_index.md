@@ -1,8 +1,8 @@
 ---
-title: "关于"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: "关于lank8s"
+description: "github.com/liangyuanpeng"
+author_image : "images/liangyuanpeng.png"
+author_signature : ""
 draft: false
 ---
 
